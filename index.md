@@ -4,4 +4,6 @@ This is a Git template repository of Markdown notes that are automatically rende
 
 Any `.md` file (eg: [[GitHub Pages]]) or directory of `.md` files (eg: [[Tutorials]]) you add to the repository will be rendered automatically. For information on all features Emanote supports, see https://emanote.srid.ca/
 
+Edited.
+
 [Emanote]: https://emanote.srid.ca/
